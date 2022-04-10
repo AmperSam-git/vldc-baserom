@@ -6,9 +6,9 @@ This baserom also includes the SA-1 Pack (version 1.40) to increase performance 
 
 ## Using
 
-Everything is ready to use in the provided `VLDC13.bps` patch, apply this to a clean, headered and unmodified copy of Super Mario World to get started.
+Everything is ready to use in the provided `VLDC13.bps` patch, apply this to a clean, headered and unmodified copy of Super Mario World using Flips to get started.
 
-Important: You must use the latest version of Lunar Magic (3.31) with the baserom to avoid major glitches
+**Important:** You must use the latest version of Lunar Magic (3.31) with the baserom to avoid major glitches
 
 ## Changes
 The following patches are applied to fix a number of commonly known issues or bugs:
