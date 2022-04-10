@@ -1,0 +1,14 @@
+sa1/sa1.asm
+CastleBlockFix.asm
+DoubleSpinJumpAntifail.asm
+FeatherAutoscrollFix.asm
+FireBerryFix.asm
+FixPiranhaStem.asm
+HexEdits.asm
+Layer2+3Triangles.asm
+LineGuideActAsFix.asm
+LineRopeLengthFix.asm
+LRScrollFix.asm
+TimeUpFix.asm
+TorpedoOffscreenSmokeFix.asm
+YoshiSpriteInteractionsFix.asm
