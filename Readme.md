@@ -31,6 +31,7 @@ Additionally, through hex editing a number of small changes have been made:
 - music no longer disappears on overworld when boss defeated
 - horizontal pipes now play SFX when exiting 
 - infinite lives has been applied
+- life counter was removed from both the overworld and statusbar
 
 As well as a number of minor graphical changes:
 - chuck arm palette is now green
