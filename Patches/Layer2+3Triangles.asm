@@ -3,7 +3,7 @@
 ;And also work when placed on Layer 2
 ;By dtothefourth
 
-!FreeRAM = $7FB540 ;Any FreeRAM, change if conflicting
+!FreeRAM = $1F40|!addr ;change if conflicting
 
 if read1($00FFD5) == $23  ;sa-1 compatibility
   sa1rom
@@ -13,7 +13,6 @@ else
   !BankB = $800000
   !addr = $0000
 endif
-
 
 org $00F048|!BankB
   autoclean JSL NoteLayer
